@@ -8,7 +8,6 @@ flake8 = "*"
 autopep8 = "*"
 
 [packages]
-mistune = "*"
 jinja2 = "*"
 
 [requires]
